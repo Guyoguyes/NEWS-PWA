@@ -1,8 +1,8 @@
 {
   "name": "GLOBAL NEWS",
-  "short_name": "G_NEWS",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "short_name": "GLOBAL NEWS",
+  "theme_color": "#000000",
+  "background_color": "#000000",
   "display": "standalone",
   "start_url": ".",
   "icons": [
