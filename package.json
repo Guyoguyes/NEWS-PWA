@@ -1,0 +1,25 @@
+{
+  "name": "news-pwa",
+  "version": "1.0.0",
+  "description": "A PWA News Platform",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u0016\u0016\u0016https://github.com/Shibiby/NEWS-PWA.git"
+  },
+  "author": "Muhammad Feisal Shibiby",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "fontawesome": "^5.6.3",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.15.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "workbox-sw": "^4.3.1"
+  }
+}
